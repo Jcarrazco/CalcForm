@@ -1,0 +1,12 @@
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\bin\Debug\CalcForm.exe.config
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\bin\Debug\CalcForm.exe
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\bin\Debug\CalcForm.pdb
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\obj\Debug\CalcForm.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\obj\Debug\CalcForm.Calculadora.resources
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\obj\Debug\CalcForm.Properties.Resources.resources
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\obj\Debug\CalcForm.csproj.GenerateResource.cache
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\obj\Debug\CalcForm.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\obj\Debug\CalcForm.exe
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\obj\Debug\CalcForm.pdb
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\obj\Debug\CalcForm.Formss.resources
+C:\Users\carrascoja\source\repos\CalcForm\CalcForm\obj\Debug\CalcForm.Convertidor.resources
